@@ -1,5 +1,6 @@
 hello java how are u
 how can help you
 java is easy or tough
+  java program
   this is second data added
-  how can help u
+  public class Main { public static void main(String[] args) { System.out.println("Hello World"); }}
